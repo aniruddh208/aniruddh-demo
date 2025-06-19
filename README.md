@@ -1,4 +1,4 @@
 # aniruddh-demo
-This is My First Git Repository.
+This is my first Git Repository.
 Author - Aniruddh Chavda
 
