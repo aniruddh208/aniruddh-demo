@@ -1,2 +1,4 @@
 # aniruddh-demo
-This is my first git hub repository.
+This is My First Git Repository.
+Author - Aniruddh Chavda
+
